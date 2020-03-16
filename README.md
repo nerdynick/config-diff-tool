@@ -16,7 +16,12 @@ A simple configuration file diff tool.
 $> java -jar target/config-diff-tool-0.0.1.jar -l client.properties -r client2.properties
 ```
 
+**Sample Output**
+
+![Sample Output](sample_output.png "Sample Output")
+
 **Help Output**
+
 ```
 usage: ConfigDiffTool
  -h,--help          Print Help
